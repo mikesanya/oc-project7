@@ -57,19 +57,19 @@
 								<ul>
 									<li>
 										<i class="fa fa-heart"></i>
-										<span>1185</span>
+										<span>0</span>
 									</li>
 									<li>
 										<i class="fa fa-comment"></i>
-										<span>1165</span>
+										<span>0</span>
 									</li>
 									<li>
 										<i class="fa fa-share-alt"></i>
-										<span>1120</span>
+										<span>0</span>
 									</li>
 									<li>
 										<i class="fa fa-eye"></i>
-										<span>1009</span>
+										<span>0</span>
 									</li>
 								</ul>
 							</div><!--widget-feat end-->
@@ -86,7 +86,7 @@
 												<p>Graphic Designer </p>
 											</div><!--usr-mg-info end-->
 										</div>
-										<span><img src="images/price1.png" alt="">1185</span>
+										<span><img src="images/price1.png" alt="">0</span>
 									</li>
 									<li>
 										<div class="usr-msg-details">
@@ -98,7 +98,7 @@
 												<p>PHP Developer</p>
 											</div><!--usr-mg-info end-->
 										</div>
-										<span><img src="images/price2.png" alt="">1165</span>
+										<span><img src="images/price2.png" alt="">0</span>
 									</li>
 									<li>
 										<div class="usr-msg-details">
@@ -110,7 +110,7 @@
 												<p>Wordpress Developer </p>
 											</div><!--usr-mg-info end-->
 										</div>
-										<span><img src="images/price3.png" alt="">1120</span>
+										<span><img src="images/price3.png" alt="">0</span>
 									</li>
 									<li>
 										<div class="usr-msg-details">
@@ -122,7 +122,7 @@
 												<p>C & C++ Developer </p>
 											</div><!--usr-mg-info end-->
 										</div>
-										<span><img src="images/price4.png" alt="">1009</span>
+										<span><img src="images/price4.png" alt="">0</span>
 									</li>
 								</ul>
 							</div><!--widget-user end-->
