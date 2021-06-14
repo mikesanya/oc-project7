@@ -202,7 +202,7 @@ export default class Editpost extends Vue {
 
 		handlesubmit(){
 
-			//Using FromData because of file post
+			//Using FormData because of file post
 			const _form = new FormData()
 			_form.append('title', this.form.title)
 			_form.append('department', this.form.department)
