@@ -15,24 +15,14 @@
 											</div><!--username-dt end-->
 											<div class="user-specs">
 												<h3>{{user.fullname}}</h3>
-												<span>Graphic Designer at Self Employed</span>
 											</div>
 										</div><!--user-profile end-->
 										<ul class="user-fw-status">
-											<li>
-												<h4>Following</h4>
-												<span>34</span>
-											</li>
-											<li>
-												<h4>Followers</h4>
-												<span>155</span>
-											</li>
 											<li>
 												<a href="#" @click="deleteAccount(user.id)" title="">Delete Account</a>
 											</li>
 										</ul>
 									</div><!--user-data end-->
-									
 									<div class="tags-sec full-width">
 										<ul>
 											<li><a href="#" title="">Help Center</a></li>
@@ -45,8 +35,8 @@
 											<li><a href="#" title="">Copyright Policy</a></li>
 										</ul>
 										<div class="cp-sec">
-											<img height="70" src="images/cm-logo.png" alt="">
-											<p><img src="images/cp.png" alt="">Copyright 2018</p>
+											<img height="80" src="images/cm-logo.png" alt="">
+											<p><img src="images/cp.png" alt="">Copyright 2021</p>
 										</div>
 									</div><!--tags-sec end-->
 								</div><!--main-left-sidebar end-->

@@ -57,78 +57,22 @@
 								<ul>
 									<li>
 										<i class="fa fa-heart"></i>
-										<span>0</span>
+										<span>6</span>
 									</li>
 									<li>
 										<i class="fa fa-comment"></i>
-										<span>0</span>
+										<span>9</span>
 									</li>
 									<li>
 										<i class="fa fa-share-alt"></i>
-										<span>0</span>
+										<span>10</span>
 									</li>
 									<li>
 										<i class="fa fa-eye"></i>
-										<span>0</span>
+										<span>4</span>
 									</li>
 								</ul>
 							</div><!--widget-feat end-->
-							<div class="widget widget-user">
-								<h3 class="title-wd">Top User of the Week</h3>
-								<ul>
-									<li>
-										<div class="usr-msg-details">
-											<div class="usr-ms-img">
-												<img src="http://via.placeholder.com/50x50" alt="">
-											</div>
-											<div class="usr-mg-info">
-												<h3>Jessica William</h3>
-												<p>Graphic Designer </p>
-											</div><!--usr-mg-info end-->
-										</div>
-										<span><img src="images/price1.png" alt="">0</span>
-									</li>
-									<li>
-										<div class="usr-msg-details">
-											<div class="usr-ms-img">
-												<img src="http://via.placeholder.com/50x50" alt="">
-											</div>
-											<div class="usr-mg-info">
-												<h3>John Doe</h3>
-												<p>PHP Developer</p>
-											</div><!--usr-mg-info end-->
-										</div>
-										<span><img src="images/price2.png" alt="">0</span>
-									</li>
-									<li>
-										<div class="usr-msg-details">
-											<div class="usr-ms-img">
-												<img src="http://via.placeholder.com/50x50" alt="">
-											</div>
-											<div class="usr-mg-info">
-												<h3>Poonam</h3>
-												<p>Wordpress Developer </p>
-											</div><!--usr-mg-info end-->
-										</div>
-										<span><img src="images/price3.png" alt="">0</span>
-									</li>
-									<li>
-										<div class="usr-msg-details">
-											<div class="usr-ms-img">
-												<img src="http://via.placeholder.com/50x50" alt="">
-											</div>
-											<div class="usr-mg-info">
-												<h3>Bill Gates</h3>
-												<p>C & C++ Developer </p>
-											</div><!--usr-mg-info end-->
-										</div>
-										<span><img src="images/price4.png" alt="">0</span>
-									</li>
-								</ul>
-							</div><!--widget-user end-->
-							<div class="widget widget-adver">
-								<img src="http://via.placeholder.com/370x270" alt="">
-							</div><!--widget-adver end-->
 						</div>
 					</div>
 				</div><!--forum-questions-sec end-->
@@ -148,8 +92,8 @@
 						<li><a href="#" title="">Language</a></li>
 						<li><a href="#" title="">Copyright Policy</a></li>
 					</ul>
-					<p><img src="images/copy-icon2.png" alt="">Copyright 2021</p>
-					<img class="fl-rgt" src="images/logo2.png" alt="">
+				<p><img src="images/copy-icon2.png" alt="">Copyright 2021</p>
+					<img height="100" src="images/cm-logo.png" alt="">
 				</div>
 			</div>
 		</footer>
